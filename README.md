@@ -17,4 +17,8 @@ Easy to hide code inside these large blocks
 
 Fake real code inside to throw humans off
 
+#Examples
+
+Examples can now be found in the example directory!
+
 #Join the discord! https://discord.gg/r6x8RsMrrX
