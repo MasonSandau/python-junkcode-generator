@@ -1,0 +1,31 @@
+
+raaImwUkFQMngEWV=("raaImwUkFQMngEWV")
+YkkNGKqyphHeUqPf=("YkkNGKqyphHeUqPf")
+aqRVmdqnhYZOfLMg=("aqRVmdqnhYZOfLMg")
+DYeRiFEHhYggxOVI=("DYeRiFEHhYggxOVI")
+RWLZPiKgPioMclaN=("RWLZPiKgPioMclaN")
+IBzFVaLMJHZTJaYJ=("IBzFVaLMJHZTJaYJ")
+tidaQrzdMUnZNMlh=("tidaQrzdMUnZNMlh")
+sTSXECggVatuPqjn=("sTSXECggVatuPqjn")
+beUdOQAUWwurchyz=("beUdOQAUWwurchyz")
+DEEcOMQOmenhxveH=("DEEcOMQOmenhxveH")
+ULnlXfDsqbYjAvzV=("ULnlXfDsqbYjAvzV")
+TKNLuaSxZwSaMfti=("TKNLuaSxZwSaMfti")
+UBfknitJgDCQDdqW=("UBfknitJgDCQDdqW")
+aiYVCMapTEyqeczh=("aiYVCMapTEyqeczh")
+
+if raaImwUkFQMngEWV!=YkkNGKqyphHeUqPf:
+    aqRVmdqnhYZOfLMg=("DYeRiFEHhYggxOVI")+("RWLZPiKgPioMclaN")
+    IBzFVaLMJHZTJaYJ=("IBzFVaLMJHZTJaYJs")+("GnyblIAnBZWVvKZvhSElTyIdpmqqawELwSbLWvUXYcDCJoBPmmtxrSsbCcnmGQErOoLkaElooCpTcxWidVaQDLARzcDobvjRqOfpPMFxDlXaJyFhnpYcexxWLiMAoupVlUwpXKDKAezSMLyPUDpRonsgpyEupwtT")
+    tidaQrzdMUnZNMlh=aiYVCMapTEyqeczh
+else:
+    sTSXECggVatuPqjn=("IBzFVaLMJHZTJaYJs")+("RWLZPiKgPioMclaN")
+    ULnlXfDsqbYjAvzV=("DEEcOMQOmenhxveH")+("beUdOQAUWwurchyz")+("sys.exit")
+    TKNLuaSxZwSaMfti=aiYVCMapTEyqeczh2
+def UBfknitJgDCQDdqW(aqRVmdqnhYZOfLMg, IBzFVaLMJHZTJaYJ):
+    IBzFVaLMJHZTJaYJ=("aqRVmdqnhYZOfLMg")+("tidaQrzdMUnZNMlh")
+    if IBzFVaLMJHZTJaYJ!=tidaQrzdMUnZNMlh:
+        tidaQrzdMUnZNMlhs=("IBzFVaLMJHZTJaYJ")
+    else:
+        ("GnyblIAnBZWVvKZvhSElTyIdpmqqawELwSbLWvUXYcDCJoBPmmtxrSsbCcnmGQErOoLkaElooCpTcxWidVaQDLARzcDobvjRqOfpPMFxDlXaJyFhnpYcexxWLiMAoupVlUwpXKDKAezSMLyPUDpRonsgpyEupwtT")
+    

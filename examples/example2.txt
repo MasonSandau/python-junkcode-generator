@@ -1,0 +1,43 @@
+
+mGhONlfpPBWbWiZf=("mGhONlfpPBWbWiZf")
+abneiaobeij=[]
+zuibweohbgp=[]
+FoessvpvmiOTUWJV=(200)
+ZtMpVAhBxBDoeBxh=(404)
+lHLfBVfXZAXZCYYo=(500)
+WgKYlbqWLOPCRYFl=(403)
+null=("null")
+
+aCpmEyUipMvugSFi=("bQVdIWbeqsEdGjsp")
+url_HhNlAJCFurRphbDj=("https://" + aCpmEyUipMvugSFi + ".com")
+def VmQxXlxDdHRZZokA():
+    pQoeVsJShFuVOKsv=(url_HhNlAJCFurRphbDj + "/" + mGhONlfpPBWbWiZf)
+    abneiaobeij.append(pQoeVsJShFuVOKsv)
+try:    
+    wZTDrMgJkAkhAzsq = requests.get(url_HhNlAJCFurRphbDj)
+except:
+    wZTDrMgJkAkhAzsq=("null")
+if wZTDrMgJkAkhAzsq == FoessvpvmiOTUWJV:
+    wZTDrMgJkAkhAzsq = url_HhNlAJCFurRphbDj
+    zuibweohbgp.append(wZTDrMgJkAkhAzsq)
+    pass
+elif wZTDrMgJkAkhAzsq==500:
+    wZTDrMgJkAkhAzsq=url_HhNlAJCFurRphbDj
+    zuibweohbgp.append(wZTDrMgJkAkhAzsq)
+    pass
+elif wZTDrMgJkAkhAzsq==WgKYlbqWLOPCRYFl:
+    wZTDrMgJkAkhAzsq=url_HhNlAJCFurRphbDj
+    zuibweohbgp.append(wZTDrMgJkAkhAzsq)
+    pass
+elif wZTDrMgJkAkhAzsq==ZtMpVAhBxBDoeBxh:
+    wZTDrMgJkAkhAzsq=url_HhNlAJCFurRphbDj
+    zuibweohbgp.append(wZTDrMgJkAkhAzsq)
+elif wZTDrMgJkAkhAzsq !=null:
+    wZTDrMgJkAkhAzsq=url_HhNlAJCFurRphbDj
+    zuibweohbgp.append(wZTDrMgJkAkhAzsq)
+else:
+    VmQxXlxDdHRZZokA()
+    wZTDrMgJkAkhAzsq=wZTDrMgJkAkhAzsq
+    pass
+
+    
